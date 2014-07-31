@@ -48,7 +48,7 @@ If you are interested in providing a potential project, please send a 1-page pro
 
 2. A brief description of the software
 
-3. The platform on which the software is built on, e.g., iPhone, Android, Mac OS, Windows, etc.
+3. The platform on which the software is built on, e.g., Web, iPhone/iPad, Android, Mac OS, Windows, etc.
 
 4. Any addition requirements
 
